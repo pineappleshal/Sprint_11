@@ -1,0 +1,4 @@
+{
+  "name": "Sprint_11 — Доска объявлений",
+  "plugins": {"awesome": {"options": {"singleFile": true, "reportLanguage": "ru"}}}
+}
